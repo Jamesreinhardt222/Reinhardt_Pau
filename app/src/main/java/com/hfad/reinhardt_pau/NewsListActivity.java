@@ -52,7 +52,7 @@ public class NewsListActivity extends AppCompatActivity {
     public void getJson(String keyword) {
 
         RequestQueue queue = Volley.newRequestQueue(this);
-        String url = "http://newsapi.org/v2/everything?q="+keyword+"&apiKey=83fd76d01d554848a659ed5159b4947d";
+        String url = "https://newsapi.org/v2/everything?q="+keyword+"&apiKey=83fd76d01d554848a659ed5159b4947d";
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest
                 (Request.Method.GET, url, null, new Response.Listener<JSONObject>() {

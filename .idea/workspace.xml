@@ -7,32 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce426e3c-54ce-4194-9a2e-abbb90b63442" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_volley_volley_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_volley_volley_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hfad/reinhardt_pau/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hfad/reinhardt_pau/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_details.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workout/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Workout/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workout/app/src/main/java/com/hfad/workout/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workout/app/src/main/java/com/hfad/workout/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workout/app/src/main/java/com/hfad/workout/Workout.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workout/app/src/main/java/com/hfad/workout/Workout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workout/app/src/main/java/com/hfad/workout/WorkoutDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workout/app/src/main/java/com/hfad/workout/WorkoutDetailFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workout/app/src/main/java/com/hfad/workout/WorkoutListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workout/app/src/main/java/com/hfad/workout/WorkoutListFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Workout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workout/app/src/main/res/layout/fragment_workout_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Workout/app/src/main/res/layout/fragment_workout_detail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workout/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Workout/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../androidAssignment1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../androidAssignment1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../androidProject/app/src/main/java/ca/bcit/androidproject/Country.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../androidProject/app/src/main/java/ca/bcit/androidproject/CountryListFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../androidProject/app/src/main/java/ca/bcit/androidproject/MapActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../androidProject/app/src/main/java/ca/bcit/androidproject/MapActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../androidProject/app/src/main/res/layout/activity_map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../androidProject/app/src/main/res/layout/activity_map.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../androidProject/app/src/main/res/layout/fragment_country_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_news_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_news_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_27" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -147,9 +148,26 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="947" y="159" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1602806028604" />
-    <state x="420" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1602452117742">
-      <screen x="0" y="0" width="1707" height="920" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom" timestamp="1602811810600">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602811810600" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center" timestamp="1602811810599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602811810599" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left" timestamp="1602811810598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602811810598" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right" timestamp="1602811810600">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602811810600" />
+    <state x="354" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1602807089609">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="283" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1602807089609" />
     <state x="420" y="289" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1602452117742" />
   </component>
 </project>
